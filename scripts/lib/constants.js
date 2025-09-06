@@ -151,15 +151,27 @@ const weaponTypes = [
     'martialM',
     'simpleM',
     'martialR',
-    'simpleR'
+    'simpleR',
+    'simpleVibroweapon',
+    'martialVibroweapon',
+    'simpleLightweapon',
+    'martialLightweapon',
+    'simpleBlaster',
+    'martialBlaster'
 ];
 const meleeWeaponTypes = [
     'martialM',
-    'simpleM'
+    'simpleM',
+    'simpleVibroweapon',
+    'martialVibroweapon',
+    'simpleLightweapon',
+    'martialLightweapon'
 ];
 const rangedWeaponTypes = [
     'martialR',
-    'simpleR'
+    'simpleR',
+    'simpleBlaster',
+    'martialBlaster'
 ];
 const armorTypes = [
     'light',
